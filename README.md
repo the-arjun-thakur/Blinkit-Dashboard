@@ -7,10 +7,8 @@ Here is a **professional `README.md` template** for your **Blinkit Power BI Dash
 
 # 🛒 Blinkit Sales Analysis Dashboard (Power BI)
 
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
-![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analytics-blue)
-![Visualization](https://img.shields.io/badge/Type-Dashboard-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Power BI_Project]([https://img.shields.io/badge/Tool-PowerBI-yellow](https://github.com/the-arjun-thakur/Power-BI_HR-Analysis_Dashboard))
+
 
 ## 📊 Project Overview
 
@@ -23,11 +21,7 @@ The dashboard helps analyze **sales performance, product categories, outlet char
 
 ## 🖼 Dashboard Preview
 
-![Blinkit Dashboard](blinkit_dashboard.png)
-
-*(Upload your dashboard screenshot in the repository and name it `blinkit_dashboard.png`)*
-
----
+![Blinkit Dashboard]([blinkit_dashboard.png](https://github.com/the-arjun-thakur/Blinkit-Dashboard/blob/main/Blinkit_Dashboard.png))
 
 ## 📌 Key Metrics
 
